@@ -1,5 +1,5 @@
 body{
-	/*background: black;*/
+	background: gray;
 	font-size: 87.5%;
 	font-family: Arial, 'Lucida Sans Unicode';
 	color: black;
@@ -58,4 +58,35 @@ a:hover, a:active{
 	border-radius: 5px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
+}
+.main-content{
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	line-height: 25px
+}
+.content{
+	width: 70%;
+	float: left;
+}
+.topcontent{
+	margin-top: 2%;
+	background-color: white;
+	padding: 4% 5%;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.bottomcontent{
+	margin-top: 2%;
+	background-color: white;
+	padding: 4% 5%;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.post-info{
+	color: #38ACEC;
+	font-style: italic;
+	font-size: 85%
 }
