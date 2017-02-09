@@ -49,7 +49,7 @@ a:hover, a:active{
      height: 20px;
 }
 .mainheader nav a:hover,.mainheader nav  a:active,
-.maineader nav .active a:link, .mainheader nav .active a:visited{
+.mainheader nav .active a:link, .mainheader nav .active a:visited{
 	background-color: #CF5C3F;
 	text-shadow: none;
 
@@ -89,4 +89,50 @@ a:hover, a:active{
 	color: #38ACEC;
 	font-style: italic;
 	font-size: 85%
+}
+.top-sidebar{
+	width: 21%;
+	float: left;
+	background-color: white;
+	margin: 2% 0% 2% 3%;
+	padding: 2% 3%;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.middle-sidebar{
+	width: 21%;
+	float: left;
+	background-color: white;
+	margin: 2% 0% 2% 3%;
+	padding: 2% 3%;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.bottom-sidebar{
+	width: 21%;
+	float: left;
+	background-color: white;
+	margin: 2% 0% 2% 3%;
+	padding: 2% 3%;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.mainfooter{
+	width: 100%;
+	float: left;
+	height: 40px;
+	background: #666;
+	margin: 2% 0%;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.mainfooter p{
+	color: white;
+	margin: 10px auto;
+	color: white;
+	padding-left: 10px;
 }
